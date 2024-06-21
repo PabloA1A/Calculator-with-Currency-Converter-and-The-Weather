@@ -78,6 +78,10 @@ Note: Installation of Vue Router and Pinia is not recommended.
 
 The project will be carried out in pair programming with role changes every 30 minutes (driver / navigator).
 
-### Modalidades de evaluación
+## image:
 
-Se evaluará según lo indicado en el README. El README deberá ser la carta de presentación del proyecto
+https://i.postimg.cc/3J6kjFy0/temp-Imageain-Zkk.avif
+
+## github-page:
+
+https://pabloa1a.github.io/Calculator-with-Currency-Converter-and-The-Weather/
