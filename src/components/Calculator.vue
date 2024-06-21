@@ -1,19 +1,15 @@
 <script setup>
 import { ref } from 'vue'
 
-// Estado para el display
 const display = ref('')
 
-// Función para manejar el clic de los botones
 function handleClick(value) {
   display.value += value
 } 
-// Función para limpiar el display
+
 function clearDisplay() {
   display.value = ''
 }
-
-//Funcion 
 
   function result () {
   try {
