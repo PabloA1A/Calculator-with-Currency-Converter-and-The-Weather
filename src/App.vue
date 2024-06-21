@@ -1,18 +1,30 @@
 <script setup>
+import Weather from './components/Weather.vue'
 
-import Calculator from './components/Calculator.vue';
+import Calculator from './components/Calculator.vue'
+
 </script>
 
 <template>
-  <header>
-    
+<nav>
+<div>
 
+  <Weather />
+  
+</div> 
+</nav>
+
+  <header>
     <div>
-     <Calculator />
+      <Calculator />
     </div>
+    
   </header>
 
- 
+  <footer>
+
+  </footer>
+    
 </template>
 
 <style lang="scss">
